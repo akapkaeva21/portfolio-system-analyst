@@ -38,9 +38,7 @@
 ### Артефакты проекта
 
 *   [**Диаграммы**](docs/02_diagrams/) (Use Case, DFD, Классов, Последовательности)
-*   [**Требования и Use Cases**](docs/01_requirements/)
-*   [**Спецификация качества**](docs/03_specifications/)
-*   [**Полный отчёт по курсовому проекту**](reports/Itogovy_otchet_6405_Kapkaeva.docx)
+*   [**Полный отчёт по курсовому проекту**](Project_system_analyst.docx)
 
 ---
 
